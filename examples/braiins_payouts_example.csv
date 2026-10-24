@@ -1,0 +1,5 @@
+account,amount,user_fee,coin,target,date,transaction_id
+testworker,0.00012345,0.00000000,BTC,testuser@getalby.com,2026-01-10 09:06:07,aaaa1111
+testworker,0.00023456,0.00000000,BTC,testuser@getalby.com,2026-04-01 09:06:24,bbbb2222
+testworker,0.00034567,0.00001000,BTC,testuser@strike.me,2026-09-04 09:06:11,cccc3333
+testworker,0.00023456,0.00000000,BTC,testuser@getalby.com,2026-04-01 09:06:24,bbbb2222
